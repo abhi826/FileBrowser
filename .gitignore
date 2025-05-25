@@ -2,4 +2,3 @@
 /.vscode/
 .qmlls.ini
 CMakeLists.txt.user
-resources.qrc

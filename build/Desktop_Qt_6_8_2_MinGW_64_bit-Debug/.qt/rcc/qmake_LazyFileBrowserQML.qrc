@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/LazyFileBrowserQML">
-    <file alias="qmldir">C:/Users/17323/Desktop/QTProjs/LazyFileBrowserQML/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/LazyFileBrowserQML/qmldir</file>
-  </qresource>
-</RCC>
-
