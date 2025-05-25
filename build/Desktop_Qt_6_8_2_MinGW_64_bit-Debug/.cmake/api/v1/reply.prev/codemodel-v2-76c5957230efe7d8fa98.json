@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-37c1124f832778a53876.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LazyFileBrowserQML",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-0a177622a6e669ecc33e.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-f1060a97051b37e8ca26.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-11ed2416a5ea1d2c5b84.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-08f36df9f118dd3de108.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-9440673cedbed645ada2.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLazyFileBrowserQML::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLazyFileBrowserQML-Debug-401f57edd1db0f4563e4.json",
+					"name" : "appLazyFileBrowserQML",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLazyFileBrowserQML_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLazyFileBrowserQML_autogen-Debug-9b2e8a00a76d2f5c00c6.json",
+					"name" : "appLazyFileBrowserQML_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLazyFileBrowserQML_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLazyFileBrowserQML_autogen_timestamp_deps-Debug-95bb2463486573a92a78.json",
+					"name" : "appLazyFileBrowserQML_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLazyFileBrowserQML_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLazyFileBrowserQML_copy_qml-Debug-ba14b5664be5b18bff51.json",
+					"name" : "appLazyFileBrowserQML_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLazyFileBrowserQML_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLazyFileBrowserQML_copy_res-Debug-15a8997ab02f7066a0d0.json",
+					"name" : "appLazyFileBrowserQML_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLazyFileBrowserQML_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLazyFileBrowserQML_qmlimportscan-Debug-211aae824cc6050cc04e.json",
+					"name" : "appLazyFileBrowserQML_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLazyFileBrowserQML_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLazyFileBrowserQML_qmllint-Debug-e5bc8c0ffd647db516ee.json",
+					"name" : "appLazyFileBrowserQML_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLazyFileBrowserQML_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLazyFileBrowserQML_qmllint_json-Debug-2180ad237a87328dba95.json",
+					"name" : "appLazyFileBrowserQML_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLazyFileBrowserQML_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLazyFileBrowserQML_qmllint_module-Debug-798e689ea0faa0e17329.json",
+					"name" : "appLazyFileBrowserQML_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLazyFileBrowserQML_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLazyFileBrowserQML_qmltyperegistration-Debug-5a52cba6a7e8021253c3.json",
+					"name" : "appLazyFileBrowserQML_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appLazyFileBrowserQML_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appLazyFileBrowserQML_aotstats_target-Debug-cf9e23b147e26317812d.json",
+					"name" : "module_appLazyFileBrowserQML_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/17323/Desktop/QTProjs/LazyFileBrowserQML/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/17323/Desktop/QTProjs/LazyFileBrowserQML"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

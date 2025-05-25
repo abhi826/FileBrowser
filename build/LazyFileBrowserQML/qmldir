@@ -1,0 +1,5 @@
+module LazyFileBrowserQML
+typeinfo appLazyFileBrowserQML.qmltypes
+prefer :/qt/qml/LazyFileBrowserQML/
+Main 1.0 Main.qml
+

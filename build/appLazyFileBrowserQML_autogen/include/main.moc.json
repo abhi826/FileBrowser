@@ -1,0 +1,31 @@
+{
+    "classes": [
+        {
+            "className": "FileModel",
+            "enums": [
+                {
+                    "isClass": false,
+                    "isFlag": false,
+                    "name": "Roles",
+                    "values": [
+                        "NameRole",
+                        "SizeRole",
+                        "TypeRole",
+                        "ModifiedRole"
+                    ]
+                }
+            ],
+            "lineNumber": 71,
+            "object": true,
+            "qualifiedClassName": "FileModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractItemModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "main.cpp",
+    "outputRevision": 68
+}
